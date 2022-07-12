@@ -25,7 +25,7 @@ fetch(url) //  Responde en ALGUN MONENTO FUTURO
     let htmlCards: string = ''
           // Para cada post construyo una card
     posts.forEach( post => {
-      console.log(post)
+      //console.log(post)
       htmlCards = htmlCards + buildDataCard(post)
     })
     
