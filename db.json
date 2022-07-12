@@ -1,0 +1,37 @@
+{
+    "posts": [
+        { 
+            "id": 1, 
+            "title": "Title-1", 
+            "author": "Gaston",
+            "image": "https://contents.mediadecathlon.com/m5586758/k$a0d80f95d5f2248ec2f4b1e140531a62/sq/skateboard-mgp-madd-gear-rodamientos-de-bolas-abec-9-snake-pit.jpg?format=auto&f=800x0",
+            "text": "Descripción del post 1"
+        },
+        { 
+            "id": 2, 
+            "title": "Title-2", 
+            "author": "Beto",
+            "image": "https://contents.mediadecathlon.com/p2073745/k$69f2d0ecb54208d9200b17aea951f9c4/patineta-para-ninos-cp100-mini-insects-ninos-3-7-anos-tamano-725quote.jpg?&f=800x800",
+            "text": "Descripción del post 2" 
+        },
+        { 
+            "id": 3, 
+            "title": "Title-3", 
+            "author": "Juan",
+            "image": "https://contents.mediadecathlon.com/m5586758/k$a0d80f95d5f2248ec2f4b1e140531a62/sq/skateboard-mgp-madd-gear-rodamientos-de-bolas-abec-9-snake-pit.jpg?format=auto&f=800x0",
+            "text": "Descripción del post 3" 
+        },
+        { 
+            "id": 4, 
+            "title": "Title-4", 
+            "author": "Barrilito",
+            "image": "https://contents.mediadecathlon.com/p2073787/k$0c3cbf3ea8ce3ba20e53e61907942087/sq/tabla-skate-cp100-mini-rainbow-ninos-3-7-anos-tamano-725.jpg?format=auto&f=800x0",
+            "text": "Descripción del post 4" 
+        }
+        
+    ],
+    "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+}

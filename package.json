@@ -1,0 +1,20 @@
+{
+  "name": "posts-app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "server": "json-server --watch --port 3100 db.json"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.1.12",
+    "typescript": "4.5.4",
+    "vite": "2.9.9"
+  },
+  "dependencies": {
+    "bootstrap": "5.2.0-beta1",
+    "json-server": "0.17.0"
+  }
+}
